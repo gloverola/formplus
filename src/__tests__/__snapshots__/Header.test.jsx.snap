@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`App > should render with given state from Redux store 1`] = `null`;
+
+exports[`Header component > should render properly with given state from Redux store 1`] = `null`;

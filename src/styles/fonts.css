@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Circular STD";
+  src: local("Circular STD"),
+    url("../assets/fonts/CircularStd-Book.ttf") format("truetype");
+  font-weight: 400;
+}
